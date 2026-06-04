@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location — tells Google exactly where to find your pages
-Sitemap: https://sarunexsecurity.com/sitemap.xml
+Sitemap: https://sarunexsecurity.github.io/sarunex-security/sitemap.xml
 
 # Crawl-delay (optional — keeps server load low)
 Crawl-delay: 10
