@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://sarunexsecurity.github.io/sarunex-security/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <image:image><image:loc>https://sarunexsecurity.github.io/sarunex-security/shaik-mohamed-founder.webp</image:loc><image:title>Shaik Mohamed, Founder of SARUNEX Security</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://sarunexsecurity.github.io/sarunex-security/founder.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <image:image><image:loc>https://sarunexsecurity.github.io/sarunex-security/shaik-mohamed-founder.webp</image:loc><image:title>Shaik Mohamed founder portrait</image:title></image:image>
+    <image:image><image:loc>https://sarunexsecurity.github.io/sarunex-security/shaik-mohamed-founder-square.webp</image:loc><image:title>Shaik Mohamed profile portrait square</image:title></image:image>
+    <image:image><image:loc>https://sarunexsecurity.github.io/sarunex-security/shaik-mohamed-founder-4x3.webp</image:loc><image:title>Shaik Mohamed profile portrait landscape</image:title></image:image>
+    <image:image><image:loc>https://sarunexsecurity.github.io/sarunex-security/shaik-mohamed-founder-16x9.webp</image:loc><image:title>Shaik Mohamed founder image wide</image:title></image:image>
+  </url>
+</urlset>

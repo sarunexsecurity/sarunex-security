@@ -1,0 +1,58 @@
+SARUNEX SECURITY — COMPLETE GITHUB PAGES UPLOAD PACKAGE
+Founder portrait + Google image discovery
+
+UPLOAD ALL 8 WEBSITE FILES BELOW TO THE ROOT OF YOUR EXISTING REPOSITORY
+Upload them into the same folder that currently contains index.html. Do not upload
+this ZIP file itself, and do not put these files into a new folder.
+
+FILES TO UPLOAD (8):
+1. index.html — replace the existing homepage. Preserves the motion design and the updated Instagram link.
+2. founder.html — dedicated profile page for Shaik Mohamed.
+3. robots.txt — crawler access and sitemap location.
+4. sitemap.xml — homepage, founder page and image discovery entries.
+5. shaik-mohamed-founder.webp — main founder portrait used by both HTML pages.
+6. shaik-mohamed-founder-square.webp — square portrait variant.
+7. shaik-mohamed-founder-4x3.webp — 4:3 portrait variant.
+8. shaik-mohamed-founder-16x9.webp — 16:9 portrait variant.
+
+ANDROID / GITHUB STEPS:
+1. Download this ZIP and extract it using your phone's Files app.
+2. Open https://github.com/sarunexsecurity/sarunex-security
+3. Open the repository root (the folder containing index.html).
+4. Choose Add file → Upload files.
+5. Select all 8 files listed above from the extracted folder.
+6. Upload them directly into the repository root. Do not create an images subfolder.
+7. Replace the existing index.html, robots.txt and sitemap.xml when GitHub asks.
+8. Keep all other existing repository files; do not delete unrelated assets.
+9. Commit to the branch used by GitHub Pages (usually main), with message:
+   Add founder portrait and Google image SEO
+10. Wait for the GitHub Pages deployment to finish.
+
+VERIFY THESE PUBLIC URLS AFTER PUBLISHING:
+Homepage:
+https://sarunexsecurity.github.io/sarunex-security/
+Founder profile:
+https://sarunexsecurity.github.io/sarunex-security/founder.html
+Main standalone portrait:
+https://sarunexsecurity.github.io/sarunex-security/shaik-mohamed-founder.webp
+Image sitemap:
+https://sarunexsecurity.github.io/sarunex-security/sitemap.xml
+
+The portrait URL should open the image directly. If it returns 404, check that the
+file is in the repository root and the filename spelling matches exactly.
+
+GOOGLE SEARCH CONSOLE:
+1. Open https://search.google.com/search-console/
+2. Select the verified URL-prefix property:
+   https://sarunexsecurity.github.io/sarunex-security/
+3. Open Sitemaps and submit: sitemap.xml
+4. Use URL Inspection for the homepage and /founder.html.
+5. Run Test Live URL, then choose Request Indexing if available.
+
+NOTES:
+- The correct founder spelling throughout this package is Shaik Mohamed.
+- The public image is a standard WebP file referenced with ordinary HTML img src.
+- All portrait URLs in the HTML and sitemap point to files in the repository root.
+- Google decides whether and how an image appears in search results. These changes
+  improve crawlability and image/entity association but cannot guarantee a photo
+  beside every search result. Indexing may take days or longer.

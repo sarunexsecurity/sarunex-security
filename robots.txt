@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sarunexsecurity.github.io/sarunex-security/sitemap.xml
